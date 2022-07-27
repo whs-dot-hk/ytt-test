@@ -1,0 +1,3 @@
+#@ load("@ytt:data", "data")
+
+list_with_a_map: #@ data.values.my_map
